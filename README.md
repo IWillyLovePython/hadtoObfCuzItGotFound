@@ -13,7 +13,7 @@
 
 ## Script  
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IWillyLovePython/BatonRougeRPAdmin/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IWillyLovePython/hadtoObfCuzItGotFound/main/main.lua"))()
 ```
 
 ## Description
